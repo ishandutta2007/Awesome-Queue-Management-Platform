@@ -24,48 +24,17 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-* **[Qminder](https://www.qminder.com/)**
-  Cloud-based queue management and customer-flow platform providing digital check-in, virtual queues, customer notifications, staff dashboards, and service analytics.
-
-* **[Qmatic](https://www.qmatic.com/)**
-  Enterprise customer journey and queue-management platform supporting ticketing, appointment scheduling, digital queuing, kiosks, customer-flow orchestration, and analytics.
-
-* **[Q-nomy](https://www.q-nomy.com/)**
-  Customer-flow management platform covering queue management, appointment scheduling, virtual queuing, workforce coordination, and branch optimization.
-
-* **[Wavetec](https://www.wavetec.com/)**
-  Customer-experience and queue-management technology provider offering kiosks, digital signage, ticketing, virtual queues, appointment management, and customer-flow solutions.
-
-* **[Livewire Queue](https://www.livewireq.com/)**
-  Queue-management platform for managing customer waiting lines, digital tickets, service counters, and customer notifications.
-
-* **[Skiplino](https://www.skiplino.com/)**
-  Digital queue and appointment-management platform enabling customers to join queues remotely, receive notifications, and monitor their position.
-
-* **[Waitwhile](https://waitwhile.com/)**
-  Cloud-based waitlist, queue, appointment, and customer-flow platform with virtual queuing, automated notifications, booking, and analytics.
-
-* **[QLess](https://www.qless.com/)**
-  Virtual queue and appointment-management platform designed to eliminate physical waiting lines through mobile check-in, digital ticketing, notifications, and customer-flow management.
-
-* **[Qudini](https://www.qudini.com/)**
-  Customer journey and queue-management platform supporting virtual queues, appointments, customer notifications, kiosks, and in-store service optimization.
-
-* **[ServiceQueue](https://www.servicequeue.com/)**
-  Queue-management and customer-service technology focused on digital queueing, customer flow, service counters, and waiting-time management.
-
-### Additional Notable SaaS / Hosted Platforms
-
-* **[Waitwhile](https://waitwhile.com/)** — Virtual waiting rooms, appointments, queues, and customer notifications.
-* **[Qminder](https://www.qminder.com/)** — Digital check-in, queue management, customer-flow analytics, and service operations.
-* **[Qmatic](https://www.qmatic.com/)** — Enterprise-grade queueing, appointments, kiosks, and customer journey management.
-* **[QLess](https://www.qless.com/)** — Virtual queues and appointment scheduling for organizations seeking to replace physical lines.
-* **[Skiplino](https://www.skiplino.com/)** — Mobile-first virtual queue and appointment platform.
-* **[Qudini](https://www.qudini.com/)** — Retail and service customer-flow management.
-* **[Wavetec](https://www.wavetec.com/)** — Hardware + software queueing, kiosks, digital signage, and customer-experience infrastructure.
-* **[Q-nomy](https://www.q-nomy.com/)** — Queue, appointment, workforce, and customer-flow orchestration.
-* **[QLess](https://www.qless.com/)** — Mobile queueing and appointment management.
-* **[Waitwhile](https://waitwhile.com/)** — Lightweight SaaS waitlist and virtual queue management.
+| Platform | Description | Starting Pricing | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Waitwhile](https://waitwhile.com/)** | Cloud-based waitlist, queue, appointment, and customer-flow platform with virtual queuing, automated notifications, booking, and analytics. | Starts at **$31/month** (Starter tier billed annually) or **$39/month** (monthly billing) | **Free Forever plan**: 50 visits/month, 1 location, waitlist & appointment workflows, email notifications. Paid plans also offer a 14-day free trial. |
+| **[Qminder](https://www.qminder.com/)** | Cloud-based queue management and customer-flow platform providing digital check-in, virtual queues, customer notifications, staff dashboards, and service analytics. | Starts at **$429/month** (Starter plan billed annually) | **14-day free trial** with full access to all features (no perpetual free tier). |
+| **[Skiplino](https://www.skiplino.com/)** | Digital queue and appointment-management platform enabling customers to join queues remotely, receive notifications, and monitor their position. | Starts at **$99/month** (Branch plan billed annually) | **7-day free trial** with full platform capabilities, no credit card required (no perpetual free tier). |
+| **[Qmatic](https://www.qmatic.com/)** | Enterprise customer journey and queue-management platform supporting ticketing, appointment scheduling, digital queuing, kiosks, customer-flow orchestration, and analytics. | **Custom enterprise subscription** (quote-based upon consultation; typical deployments start ~$500–$1,000/mo depending on location & volume) | **Free live interactive demo & guided product tour** upon request (no self-serve free trial or free tier). |
+| **[QLess](https://www.qless.com/)** | Virtual queue and appointment-management platform designed to eliminate physical waiting lines through mobile check-in, digital ticketing, notifications, and customer-flow management. | **Custom quote-based pricing** (enterprise contracts typically start from ~$60–$150/month per location depending on service scale) | **Free guided product demo** upon request (no automated free trial or free tier). |
+| **[Q-nomy](https://www.q-nomy.com/)** | Customer-flow management platform covering queue management, appointment scheduling, virtual queuing, workforce coordination, and branch optimization (Q-Flow). | **Custom quote-based pricing** (tailored by branch count, concurrent users, and deployment model) | **Free guided demo** upon request (no self-serve free trial or free tier). |
+| **[Wavetec](https://www.wavetec.com/)** | Customer-experience and queue-management technology provider offering kiosks, digital signage, ticketing, virtual queues, appointment management, and customer-flow solutions (Spectra). | **Custom quote-based pricing** (tiered by hardware integrations, branch size, and deployment scope) | **Free live demo consultation** upon request (no self-serve free trial or free tier). |
+| **[Qudini](https://www.qudini.com/)** | Customer journey and queue-management platform supporting virtual queues, appointments, customer notifications, kiosks, and in-store service optimization. | **Custom enterprise quote-based pricing** (via Verint solutions) | **Free guided walkthrough & demo** upon request (no self-serve free trial or free tier). |
+| **[Livewire Digital](https://www.livewiredigital.com/)** | Enterprise queue-management and interactive kiosk solutions for managing customer waiting lines, ticketing, and service counters. | **Custom quote-based pricing** (custom hardware + software kiosk deployments) | **Free consultation & demo** upon request (no self-serve free trial or free tier). |
 
 ## Open-Source GitHub Projects
 
